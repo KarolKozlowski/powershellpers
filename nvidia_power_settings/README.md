@@ -5,7 +5,7 @@ This is to solve the issue with missing audio devices when resuming from suspend
 
 ## Setup
 
-* Download the `ps1` file and put it in _c:\Windows\System32\GroupPolicy\Machine\Scripts\Shutdown\ _.
+* Download the `ps1` file and put it in _c:\Windows\System32\GroupPolicy\Machine\Scripts\Shutdown\\_.
 * Next open Local Group Policy Editor (`gpedit.msc`)
 * Navigate to **Computer Configuration\Windows Settings\Scripts (Startup/Shutdown)**.
 * Double click **Shutdown**
