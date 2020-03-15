@@ -1,6 +1,7 @@
 # NVIDIA Power settings
 
-Script looks up NVIDIA Audio driver setup class and disables power management
+Script looks up NVIDIA Audio driver setup class and disables power management.
+This is to solve the issue with missing audio devices when resuming from suspend/standby.
 
 ## Setup
 
